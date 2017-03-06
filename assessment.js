@@ -1,5 +1,5 @@
 // #1 Create a var called 'up' that says 'down'
-
+var up = "down"
 
 
 // #2 Use the var iHeart to create a new var called iHeartJavascript that says 'I heart javascript'
